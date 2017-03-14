@@ -1,6 +1,9 @@
 💕 Ruby Katas
 ==============
 
-* [fizzbuzz]
+* [Fizzbuzz]
+* [Triangle Kata]
 
-[fizzbuzz]: https://github.com/heatherdesigns/ruby-katas/blob/master/fizzbuzz.rb
+[Fizzbuzz]: https://github.com/heatherdesigns/ruby-katas/blob/master/fizzbuzz.rb
+
+[Triangle Kata]: https://github.com/heatherdesigns/ruby-katas/tree/master/Triangle%20Kata
