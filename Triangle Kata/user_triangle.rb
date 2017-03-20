@@ -6,8 +6,6 @@ require "./right_angle"
 
 class UserTriangle < Triangle
   
-  attr_accessor :a, :b, :c, :sides
-  
   def enter_lengths
     puts "Enter the first of three lengths: "
     @a = gets.chomp.to_i
