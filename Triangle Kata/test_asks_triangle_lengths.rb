@@ -1,11 +1,11 @@
 require "minitest/autorun"
-require "./user_triangle"
+require "./asks_triangle_lengths"
 
 class TestUserTriangle < Minitest::Test
-  
- def test_user_triangle
-   triangle = UserTriangle.new("", "", "")
+
+ def test_enter_lengths
+   triangle = AskTriangleLengths.new("", "", "")
    assert_equal ["2", "2", "2"], triangle.enter_lengths
- end 
-  
+ end
+
 end
